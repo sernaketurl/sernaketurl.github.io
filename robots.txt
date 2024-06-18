@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sernaketurl.github.io/sitemap
+Sitemap: https://sernaketurl.github.io/app/sitemap
+Sitemap: https://sernaketurl.github.io/assets/sitemap
+Sitemap: https://sernaketurl.github.io/css/sitemap
+Sitemap: https://sernaketurl.github.io/includes/sitemap
+Sitemap: https://sernaketurl.github.io/item/sitemap
+Sitemap: https://sernaketurl.github.io/src/sitemap
